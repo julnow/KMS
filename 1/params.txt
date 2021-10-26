@@ -8,6 +8,6 @@ eps = 1
 f = 1e4
 tau = 2e-3 
 S_0 = 10
-S_d = 50
+S_d = 2000
 S_out = 10
 S_xyz = 10
